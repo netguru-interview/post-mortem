@@ -1,0 +1,16 @@
+---
+site_name: Netguru Interview - Post-Mortem Example
+repo_url: https://github.com/netguru-interview/post-mortem
+strict: true
+theme:
+  name: material
+  palette:
+    primary: blue
+  font:
+    text: Work Sans
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+nav:
+  - Overview: README.md
